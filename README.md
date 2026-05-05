@@ -15,9 +15,9 @@ Built for a 1–2 day assignment with focus on:
 ---
 
 ## 🔗 Live Links
-- **Live App:** <LIVE_APP_URL>  
-- **GitHub Repo:** <GITHUB_REPO_URL>  
-- **Demo Video (2–5 min):** <VIDEO_URL>  
+- **Live App:** [<LIVE_APP_URL>  ](https://team-task-manager-liard-phi.vercel.app/) || Some Issue with the Backend I will fix it Later
+- **GitHub Repo:** [<GITHUB_REPO_URL>](https://github.com/123-Amir/team-task-manager)  
+- **Demo Video (2–5 min):** [<VIDEO_URL>](https://www.loom.com/share/7d5de52f46ef425d96d75cca08242ed8)  
 
 ---
 
