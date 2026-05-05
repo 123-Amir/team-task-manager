@@ -88,7 +88,7 @@ router.get('/projects/:projectId/tasks', requireAuth, async (req, res) => {
 });
 
 // PATCH /api/tasks/:id - Update a task
-router.patch('/:id', requireAuth, async (req, res) => {
+router.patch('/tasks/:id', requireAuth, async (req, res) => {
   try {
     const { id } = req.params;
     const { title, description, status, dueDate, assigneeId } = req.body;

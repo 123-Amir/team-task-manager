@@ -23,8 +23,8 @@ app.use('/api/auth', authRoutes);
 // Project routes
 app.use('/api/projects', projectRoutes);
 
-// Task routes
-app.use('/api/tasks', taskRoutes);
+// Task routes for project task creation and fetching, plus task updates
+app.use('/api', taskRoutes);
 
 // Dashboard routes
 app.use('/api/dashboard', dashboardRoutes);
